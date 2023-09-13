@@ -1,0 +1,14 @@
+{
+  "name": "Auto-Connect-Wifi",
+  "version": "0.1",
+  "description": "Connect wifi without any user interaction",
+  "main": "main.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "suraj-xd",
+  "devDependencies": {
+    
+  }
+}
