@@ -6,7 +6,7 @@ Automate the process of connecting to your college Wi-Fi effortlessly, without a
 1. **Prerequisites:** Ensure you have the [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) browser extension installed.
 
 2. **Installation:** Click the link below to install the script:
-   <a href="https://github.com/suraj-xd/auto-connect-wifi/raw/master/main.user.js" target="_blank">
+   <a href="https://github.com/suraj-xd/auto-connect-wifi/raw/main/main.user.js" target="_blank">
    <img src="https://img.shields.io/badge/Install-Script-blue.svg" alt="Install Script">
    </a>
 
