@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Auto fill username and password and click login button
-// @author       You
+// @author       Suraj Gaud
 // @match        http://10.10.10.252:8090/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=10.252
 // @grant        none
