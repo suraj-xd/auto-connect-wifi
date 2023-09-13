@@ -11,7 +11,7 @@ Automate the process of connecting to your college Wi-Fi effortlessly, without a
    </a>
 
 ## Links
-- GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/auto-connect-wifi){:target="_blank"}
+- GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/auto-connect-wifi)
 
 ---
 
